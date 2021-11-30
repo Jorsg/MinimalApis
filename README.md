@@ -1,0 +1,2 @@
+# MinimalApis
+Create project Minimal 
